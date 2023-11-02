@@ -1,0 +1,12 @@
+[
+  {"name": "Ice Cream", "price": 10.0, "flavours": "Chocolate"},
+  {"name": "Ice Cream", "price": 15.0, "flavours": "Pistachio"},
+  {"name": "Ice Cream", "price": 15.0, "flavours": "Strawberry"},
+  {"name": "Ice Cream", "price": 10.0, "flavours": "Mint"},
+  {"name": "Shaved Ice", "price": 15.0, "flavours": "Chocolate"},
+  {"name": "Shaved Ice", "price": 15.0, "flavours": "Pistachio"},
+  {"name": "Shaved Ice", "price": 15.0, "flavours": "Strawberry"},
+  {"name": "Shaved Ice", "price": 15.0, "flavours": "Mint"},
+  {"name": "Snack bar", "price": 20.0, "flavours": "Chocolate"},
+  {"name": "Snack bar", "price": 20.0, "flavours": "Strawberry"}
+]

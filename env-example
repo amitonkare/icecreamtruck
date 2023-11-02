@@ -1,0 +1,19 @@
+#Django
+SECRET_KEY="7+i1$*(zm4(*hmbv-*ea7=#73g4xoxoq81z&qp74u98---9*yi"
+DEBUG=0
+ALLOWED_HOSTS=localhost 127.0.0.1 0.0.0.0 [::1] *
+
+
+# database access credentials
+DB_ENGINE=django.db.backends.postgresql
+DB_NAME=icecream_trucks
+DB_USER=it_user
+DB_PASSWORD=it_password
+DB_HOST=db
+DB_PORT=5450
+APP_PORT=8000
+
+#superuser details
+DJANGO_SU_NAME=FT
+DJANGO_SU_EMAIL=it_admin@admin.com
+DJANGO_SU_PASSWORD=it_123
